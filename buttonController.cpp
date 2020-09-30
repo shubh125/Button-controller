@@ -1,5 +1,7 @@
+//header files
 #include <simplecpp>
 
+//main program
 main_program{
   initCanvas();
 
